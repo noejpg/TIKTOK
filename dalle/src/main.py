@@ -23,7 +23,7 @@ if __name__ == "__main__":
     """
     # Prompt for the story with instructions to separate steps by blank lines
     prompt = f"Write the story of skippy the dog obsessed by his wood stick to change that in {num_images} steps, give the same description of the guy in each scene so the pictures will be coherent, make sure to respect the content filters"
-    globalinstruction = " this is a step of the story of a big fat  man that wear silly clothes marked by his rotund belly and thick limbs, photorealistic style"
+    globalinstruction = " , photorealistic style"
 
 
     # # Generate story steps
